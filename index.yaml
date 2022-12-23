@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  audittail:
+  - apiVersion: v2
+    created: "2022-12-23T12:57:56.084527094Z"
+    description: A Helm chart for Kubernetes
+    digest: 4fd1d552f9e6b5ff3cacf44c5b9d8e91c64206a10ff99ef8071bb999fba9e3fe
+    name: audittail
+    type: library
+    urls:
+    - https://github.com/hnadiminti-equinix/k8s-audittail/releases/download/audittail-1.0.0/audittail-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-12-23T12:57:56.084537894Z"
